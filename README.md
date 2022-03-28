@@ -30,7 +30,7 @@ If no errors occur you'll get a link in your terminal like this: http://127.0.0.
 * Follow the link or open it using any browser and you'll have this project up and running in your device.
 
 # Now onto the frontend part:
-Run these command in your terminal:
+Enter the frontend folder, Open your terminal and Run these commands in your terminal:
   * npm install
   * npm start
 This should open the frontend project in your default browser.
