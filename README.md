@@ -1,5 +1,6 @@
 # React-Django-Event-Manager
 It's a basic web application that can perform CRUD operations through API calls. We used React and Django for this project.
+The files are in the master branch.
 
 # Instructions for running/serving the project
 * You'll need to first install the following in your device:
